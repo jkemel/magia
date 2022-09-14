@@ -1,0 +1,2 @@
+# magia
+primer repositorio 
