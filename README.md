@@ -1,2 +1,2 @@
-# magia
+# unidad 6 
 primer repositorio 
